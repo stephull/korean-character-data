@@ -7,10 +7,9 @@ This repository holds all possible combinations of the Korean alphabet. Each fil
 <b>The data is intended for a personal project of mine, although this dataset is publically available to anyone who needs a dataset of Korean characters. </b>
 
 ## Contents
-Every .csv file orients a matrix of characters based on the first consonant on the columns, and the vowels for the rows. 
-
 <b>Formats include:</b>
-* 28 .csv files
-* JSON objects are to be determined
+* CSV - CSV files, sorted by both first and last consonants, and includes file for all letters
+* JSON - JSON encoded object file sorted by first consonant
+* NPY - Numpy array file sorted by first consonant
 
-<b>For testing purposes, and demonstrations, we have a testing folder</b>
+<b>For testing purposes, and demonstrations, see tests-and-demos.ipynb</b>
