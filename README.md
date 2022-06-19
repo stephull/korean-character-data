@@ -14,37 +14,3 @@ Every .csv file orients a matrix of characters based on the first consonant on t
 * JSON objects are to be determined
 
 <b>For testing purposes, and demonstrations, we have a testing folder</b>
-
-## Other
-**FOR CSV FILES**
-Each respective file is labelled based on the second consonant:
-| **File label** | **Ending consonant** |
-| --------------- | -------------:|
-| 0 | (none) |
-| 1 | ㄱ|
-| 2 | ㄴ|
-| 3 | ㄷ|
-| 4 | ㄹ|
-| 5 | ㅁ|
-| 6 | ㅂ|
-| 7 | ㅅ|
-| 8 | ㅇ|
-| 9 | ㅈ|
-| A | ㅊ|
-| B | ㅋ|
-| C | ㅌ|
-| D | ㅍ|
-| E | ㅎ|
-| F | ㄲ|
-| G | ㄳ|
-| H | ㄵ|
-| I | ㄶ|
-| J | ㄺ|
-| K | ㄻ|
-| L | ㄼ|
-| M | ㄽ|
-| N | ㄾ|
-| O | ㄿ|
-| P | ㅀ|
-| Q | ㅄ|
-| R | ㅆ|
