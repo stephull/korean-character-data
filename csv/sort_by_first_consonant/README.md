@@ -3,8 +3,8 @@ Dataset for all possible combinations of Korean alphabet
 
 ### CSV File Directory
 Each file is a table that contains all letters, under the condition that they start with a specific first consonant. 
-Each respective file is labelled based on the second consonant:
-| **File label** | **consonant** |
+Each respective file is labelled based on the first consonant:
+| **File label** | **Starting consonant** |
 | --------------- | -------------:|
 | 0 | ㄱ|
 | 1 | ㄲ|
